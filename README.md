@@ -1,4 +1,3 @@
-<img width="1236" height="1060" alt="EX 1 3" src="https://github.com/user-attachments/assets/294ef950-81cb-47ec-a511-6e811b63803d" /># ATM-AND-BANKING-SYSTEM
 # Reg No: 212224040122
 # Name: IRFAN H
 # Date: 08/09/2025
